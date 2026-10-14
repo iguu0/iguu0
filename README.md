@@ -1,7 +1,5 @@
 <h3 align="left">My Stack</h3>
 
-<img align="right" width="190px" src="./src/Lain.gif" alt="GIF da Lain">
-
 <div>
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" />
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" />
