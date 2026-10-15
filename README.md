@@ -17,7 +17,7 @@
 
 <br>
 
-## Contatos
+## Contacts
 
 > LinkedIn: https://www.linkedin.com/in/igor-cruz-14589b3b4/
 
