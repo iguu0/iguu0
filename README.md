@@ -1,4 +1,4 @@
-<h3 align="left">My Stack</h3>
+## My Stacks
 
 <div>
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" />
@@ -9,7 +9,7 @@
 
 <br clear="both">
 
-<h3 align="left">GitHub Stats</h3>
+## GitHub Stats
 
 <p>
   <img alt="GitHub Stats" height="195" src="https://github-readme-stats-two-omega-43.vercel.app/api?username=iguu0&show_icons=true&locale=pt-br&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"/>
