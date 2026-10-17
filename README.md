@@ -13,10 +13,21 @@
 ## GitHub Stats
 
 <p>
-  <img alt="GitHub Stats" height="195" src="https://github-readme-stats-two-omega-43.vercel.app/api?username=iguu0&show_icons=true&locale=pt-br&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"/>
+  <img 
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    alt="GitHub Stats" src="https://github-readme-stats-two-omega-43.vercel.app/api?username=iguu0&show_icons=true&locale=pt-br&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"/>
+  
+  <img 
+      align="left"
+      alt="Used Langueges"
+      height="200"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=iguu0&text_color=ffffff&title_color=ffffff&bg_color=000000&layout=compact&custom_title=Used%20Langueges"
+  />
 </p>
 
-<br>
+<br clear="both">
 
 ## Contacts
 
